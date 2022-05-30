@@ -9,6 +9,9 @@
   <a href="https://www.facebook.com/alina.ch.dp">
     <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
   </a>
+  <a href="https://t.me/cherkasova_aa">
+    <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
+  </a>
 </div>
 <h1 align="center">
   Hey
