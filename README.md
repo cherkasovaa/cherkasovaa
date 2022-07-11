@@ -58,6 +58,11 @@
   </div>
 </div>
 
+### :hourglass: Now I am learning :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+</div>
+
 ### :fire: My Stats :
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cherkasovaa&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
