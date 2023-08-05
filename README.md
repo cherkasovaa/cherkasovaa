@@ -20,9 +20,9 @@
 </h1>
 
 ### :woman_technologist: About Me :
-- :telescope: I’m a passionate frontend developer from Ukraine
+- :telescope: I’m a passionate frontend developer from Russia
 
-- :zap: In my free time, I solve problems on Codewars 
+- :zap: In my free time, I solve problems on Codewars and LeetCode
 
 ### :hammer_and_wrench: Languages and Tools :
 
