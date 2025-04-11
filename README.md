@@ -6,8 +6,8 @@
   <a href="https://www.linkedin.com/in/cherkasovaa/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/alina.ch.dp">
-    <img src="https://img.shields.io/badge/Facebook-blue?logo=facebook&logoColor=white&style=for-the-badge" alt="Facebook Badge"/>
+  <a href="https://vk.com/alinach1202">
+    <img src="https://img.shields.io/badge/Vkontakte-blue?logo=vkontakte&logoColor=white&style=for-the-badge" alt="Vkontakte Badge"/>
   </a>
   <a href="https://t.me/cherkasova_aa">
     <img src="https://img.shields.io/badge/Telegram-blue?logo=telegram&logoColor=white&style=for-the-badge" alt="Telegram Badge"/>
@@ -28,10 +28,11 @@
 
 <div>
   <div>
-    <h5>Languages:</h5>
+    <h5>My skills:</h5>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   </div>
   
   <div>
@@ -41,8 +42,8 @@
   
   <div>
     <h5>Preprocessors:</h5>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="Less" **alt="Less" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="Sass" **alt="Sass" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/less/less-plain-wordmark.svg" title="Less" **alt="Less" width="40" height="40"/>&nbsp;
   </div>
   
   <div>
