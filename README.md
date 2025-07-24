@@ -76,6 +76,7 @@
 
   | Project | Type | Description | Stack | Links |
   |:--------|:-----|:------------|:------|:------|
+  | Github Search App | SPA | An application for searching GitHub repositories | React, TypeScript, RTK Query, SASS, MUI, GitHub REST API, Vercel | [Demo](https://gh-discover.vercel.app/) / [Repo](https://github.com/cherkasovaa/github-search) |
   | Portfolio | SPA | Personal portfolio with responsive design | React, TypeScript, Tailwind CSS, Vercel | [Demo](https://cherkasovaa.vercel.app/) / [Repo](https://github.com/cherkasovaa/website) |
   | Decision Tool | SPA | Weighted random choice maker | TypeScript, Canvas API, Webpack | [Demo](https://cherkasovaa.github.io/decision-making-tool/) / [Repo](https://github.com/cherkasovaa/decision-making-tool) |
   | Christmas Shop | Website | Responsive themed online shop | HTML, SCSS, JavaScript | [Demo](https://cherkasovaa.github.io/christmas-shop/) / [Repo](https://github.com/cherkasovaa/christmas-shop) |
